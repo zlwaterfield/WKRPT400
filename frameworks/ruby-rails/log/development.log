@@ -1,0 +1,40 @@
+Started GET "/" for 127.0.0.1 at 2017-12-03 16:25:27 -0500
+Processing by PagesController#home as */*
+Completed 204 No Content in 100ms
+
+
+Started GET "/" for 127.0.0.1 at 2017-12-03 16:25:46 -0500
+Processing by PagesController#home as */*
+Completed 204 No Content in 0ms
+
+
+Started GET "/" for 127.0.0.1 at 2017-12-03 16:26:05 -0500
+Processing by PagesController#home as */*
+Completed 204 No Content in 0ms
+
+
+Started GET "/" for 127.0.0.1 at 2017-12-03 16:26:06 -0500
+Processing by PagesController#home as */*
+Completed 204 No Content in 0ms
+
+
+Started GET "/" for 127.0.0.1 at 2017-12-03 16:26:07 -0500
+Processing by PagesController#home as */*
+Completed 204 No Content in 0ms
+
+
+Started GET "/" for 127.0.0.1 at 2017-12-03 16:26:08 -0500
+Processing by PagesController#home as */*
+Completed 204 No Content in 0ms
+
+
+Started GET "/" for 127.0.0.1 at 2017-12-03 16:26:08 -0500
+Processing by PagesController#home as */*
+Completed 204 No Content in 0ms
+
+
+Started GET "/" for 127.0.0.1 at 2017-12-03 16:26:09 -0500
+Processing by PagesController#home as */*
+Completed 204 No Content in 0ms
+
+
